@@ -13,3 +13,19 @@ body {
     margin: 0;
     min-height: 100vh;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}

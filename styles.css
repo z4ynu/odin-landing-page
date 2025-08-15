@@ -15,6 +15,8 @@ body {
 }
 
 .sections {
+    display: flex;
+    flex-direction: column;
     flex: 1;
 
 }
@@ -49,6 +51,34 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+/* first section */
+.hero {
+    display: flex;
+    flex: 1;
+}
+
+/* second section */
+
+
+
+.random-information {
+    display: flex;
+    flex: 1
+}
+
+/* third section */
+.quote {
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+
+/* fourth section */
+.last-section {
+    display: flex;
+    flex: 1;
 }
 
 /* footer */

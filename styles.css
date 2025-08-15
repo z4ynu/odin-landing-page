@@ -14,16 +14,32 @@ body {
     min-height: 100vh;
 }
 
+/* header */
+
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     height: 72px;
+    background-color: #1F2937;
+}
+
+.links a {
+    color: #E5E7EB;
+    cursor: pointer;
+}
+
+/* placeholder for logo, i will still think about it */
+.logo {
+    font-size: 24px;
+    font-weight: 1000;
+    color: #F9FAF8
 }
 
 ul {
     display: flex;
     list-style-type: none;
+    gap: 12px;
 }
 
 a {

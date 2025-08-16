@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     margin: 0;
     min-height: 100vh;
+    text-align: center;
 }
 
 .sections {
@@ -60,8 +61,6 @@ a {
 }
 
 /* second section */
-
-
 
 .random-information {
     display: flex;

@@ -150,7 +150,6 @@ a {
     flex: 1;
     padding: 60px;    
     background-color: #E5E7EB;
-    align-items: center;
     justify-content: center;
     gap: 10px;
 }
@@ -165,7 +164,10 @@ a {
 }
 
 #quote-author {
-    
+    margin-right: 350px;
+    align-self: flex-end;
+    font-weight: bold;
+    color: #1F2937
 }
 
 

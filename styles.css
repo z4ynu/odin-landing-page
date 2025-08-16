@@ -31,6 +31,7 @@ button {
     cursor: pointer;
 }
 
+
 /* header */
 
 .header {
@@ -44,6 +45,18 @@ button {
 .links a {
     color: #E5E7EB;
     cursor: pointer;
+}
+
+.logo img {
+    width: 40px;
+    height: 40px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 /* placeholder for logo, i will still think about it */

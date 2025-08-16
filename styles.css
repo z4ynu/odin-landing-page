@@ -57,8 +57,30 @@ a {
 /* first section */
 .hero {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex: 1;
+    background-color: #1F2937;
+    gap: 50px
 }
+
+#hero-header-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+#hero-paragraph-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-content-2 img {
+    width: 400px;
+    height: 300px;
+}
+
+
 
 /* second section */
 

@@ -65,7 +65,7 @@ a {
 
 .hero-content-1, .hero-content-2 {
     flex: 1;
-    padding: 100px;
+    padding: 60px;
     margin-left: 65px;
 }
 
@@ -83,6 +83,8 @@ a {
 .hero-content-2 img {
     width: 400px;
     height: 300px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 1px #888888;
 }
 
 
@@ -102,6 +104,9 @@ a {
 .random-information-header {
     text-align: center;
     padding: 20px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
 }
 
 .info img {
@@ -109,7 +114,7 @@ a {
     height: 180px;
     border: 2px solid #1F2937;
     border-radius: 20px;
-    box-shadow: 0px 0px 5px 2px #888888;
+    box-shadow: 0px 0px 3px 1px #888888;
 }
 
 .info {

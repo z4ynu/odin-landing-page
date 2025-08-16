@@ -164,7 +164,7 @@ a {
 }
 
 #quote-author {
-    margin-right: 350px;
+    margin-right: 490px;
     align-self: flex-end;
     font-weight: bold;
     color: #1F2937
@@ -177,7 +177,21 @@ a {
 .last-section {
     display: flex;
     flex: 1;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
 }
+
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    background-color: #3882F6;
+    padding: 50px;
+    border-radius: 10px;
+}
+
 
 /* footer */
 

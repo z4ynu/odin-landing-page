@@ -50,7 +50,8 @@ button {
 .logo {
     font-size: 24px;
     font-weight: 1000;
-    color: #F9FAF8
+    color: #F9FAF8;
+    cursor: pointer;
 }
 
 ul {

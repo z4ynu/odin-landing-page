@@ -47,6 +47,10 @@ button {
     cursor: pointer;
 }
 
+.links {
+    margin-right: 55px;
+}
+
 .logo img {
     width: 40px;
     height: 40px;
